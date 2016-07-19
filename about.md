@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a hobbist woodworker living in Madison WI.  For 10 years I've been
+practicing my craft and honing my skills.  The last two years I've really
+taking a liking to hand tools.  I enjoy challenging myself to learn a skill
+from the days of traditional woodworking.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jeff.carley@gmail.com](mailto:jeff.carley@gmail.com)
