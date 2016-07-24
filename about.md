@@ -12,4 +12,4 @@ from the days of traditional woodworking.
 
 ### Contact me
 
-[jeff.carley@gmail.com](mailto:jeff.carley@gmail.com)
+[pragmaticwoodworking@gmail.com](mailto:pragmaticwoodworking@gmail.com)
