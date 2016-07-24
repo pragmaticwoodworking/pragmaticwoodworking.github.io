@@ -7,6 +7,7 @@ date: 2016-07-19T10:43:05-06:00
 After day one, what was day two going to bring?  Well, it brought a lot of
 angles.  Saw plate and saw bench angles.  Lets dive in.
 
+
 I started off the day learning about the important factors of a toothline.
 First, how do you identify the toe and heel of a saw plate?  Its an important
 distinction that you need to be aware of.  Knowing the difference, and how to
@@ -26,15 +27,17 @@ and walk the plate from the other side.  Always pointing the tip of the file
 towards the heel at 5 degrees.  I must have done 10 passes like this without
 ever pushing the file through the gullet.  Its the basics.  Mark says, do them
 and do them well.  Commit to excellence.  My confidence was on the rise.  Not
-so hard.  It got easier and easier.  "Now push the file", Mark says.  And I
-did.  The relationship you were building with the file and the saw plate just
-changed.  Its one thing to pick the file up and seat it firmly in the next
-gullet, its another thing to start pushing it through.  Its at this point there
-are many things happening.  You really need to take your time, and assess each
-push of the file.  This process becomes very revealing.  Its easy to see that
-maybe you are not seating the file all the way into the gullet.  If done
-properly and accurately you'll see a facet form from the gullet all the way
-up the tooth to the tip.  Practice, practice, practice.
+so hard.  It got easier and easier.  See this <a href="{{ site.baseurl }}/images/saw_plate_sharpening_small_01.jpg" target="_blank">example</a> that
+shows what I'm talking about.  "Now push the file", Mark says.  And I did.  The
+relationship you were building with the file and the saw plate just changed.
+Its one thing to pick the file up and seat it firmly in the next gullet, its
+another thing to start pushing it through.  Its at this point there are many
+things happening.  You really need to take your time, and assess each push of
+the file.  This process becomes very revealing.  Its easy to see that maybe you
+are not seating the file all the way into the gullet.  If done properly and
+accurately you'll see a facet form from the gullet all the way up the tooth to
+the tip.  Practice, practice, practice.
+
 
 After lunch the teams flipped sides.  Saw bench build continued.  Yesterday
 went well for me, and I was sure today was going to go equally well.  It did,
